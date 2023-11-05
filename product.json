@@ -1,0 +1,90 @@
+ [
+    {
+        "id": 1,
+        "name": "Oreo Brownie",
+        "price": 15,
+        "image": "image/c1.jpg",
+        "desc": "Brownies filled with Chocolate and Oreo crumbs and Choco Chips",
+        "star": "<i class=\"bx bxs-star checked\"></i>\n        <i class=\"bx bxs-star checked\"></i>\n        <i class=\"bx bxs-star checked\"></i>\n        <i class=\"bx bxs-star \"></i>\n        <i class=\"bx bxs-star \"></i>",
+        "qty": 1,
+        "stock": "Add Cart",
+        "status": "enab"
+    },
+    {
+        "id": 2,
+        "name": "Caramel Brownie",
+        "price": 10,
+        "desc": "Brownies filled with Caramel and Nuts",
+        "star": "<i class=\"bx bxs-star checked\"></i>\n        <i class=\"bx bxs-star checked\"></i>\n        <i class \"bx bxs-star checked\"></i>\n        <i class=\"bx bxs-star \"></i>\n        <i class=\"bx bxs-star \"></i>",
+        "image": "image/c2.jpg",
+        "qty": 1,
+        "stock": "Add Cart",
+        "status": "enab"
+    },
+    {
+        "id": 3,
+        "name": "Hersheys Brownie",
+        "price": 20,
+        "image": "image/c3.jpg",
+        "desc": "Brownies made with Chocolate and Hersheys",
+        "star": "<i class=\"bx bxs-star checked\"></i>\n        <i class=\"bx bxs-star checked\"></i>\n        <i class=\"bx bxs-star checked\"></i>\n        <i class=\"bx bxs-star checked\"></i>\n        <i class=\"bx bxs-star \"></i>",
+        "qty": 1,
+        "stock": "Add Cart",
+        "status": "enab"
+    },
+    {
+        "id": 4,
+        "name": "Kinder Bueno Brownie",
+        "price": 25,
+        "desc": "Brownies filled with Hazelnut Cream and Kinder Bueno",
+        "star": "<i class=\"bx bxs-star checked\"></i>\n        <i class=\"bx bxs-star checked\"></i>\n        <i class=\"bx bxs-star checked\"></i>\n        <i class=\"bx bxs-star checked\"></i>\n        <i class=\"bx bxs-star checked\"></i>",
+        "image": "image/c4.jpg",
+        "qty": 1,
+        "stock": "Add Cart",
+        "status": "enab"
+    },
+    {
+        "id": 11,
+        "name": "Choco Chip Cookie",
+        "price": 5,
+        "image": "image/c5.jpg",
+        "desc": "Freshly baked cookies with choco chips",
+        "star": "<i class=\"bx bxs-star checked\"></i>\n        <i class=\"bx bxs-star checked\"></i>\n        <i class=\"bx bxs-star checked\"></i>\n        <i class=\"bx bxs-star \"></i>\n        <i class=\"bx bxs-star \"></i>",
+        "qty": 1,
+        "stock": "Add Cart",
+        "status": "enab"
+    },
+    {
+        "id": 12,
+        "name": "Almond Cookies",
+        "price": 5,
+        "desc": "Freshly baked cookies with almonds and fudge",
+        "star": "<i class=\"bx bxs-star checked\"></i>\n        <i class=\"bx bxs-star checked\"></i>\n        <i class=\"bx bxs-star checked\"></i>\n        <i class=\"bx bxs-star \"></i>\n        <i class=\"bx bxs-star \"></i>",
+        "image": "image/c6.jpg",
+        "qty": 1,
+        "stock": "Add Cart",
+        "status": "enab"
+    },
+    {
+        "id": 13,
+        "name": "Chocolate Cookies",
+        "price": 15,
+        "image": "image/c7.jpg",
+        "desc": "Regular Chocolate Cookies filled with Chocolate",
+        "star": "<i class=\"bx bxs-star checked\"></i>\n        <i class=\"bx bxs-star checked\"></i>\n        <i class=\"bx bxs-star checked\"></i>\n        <i \"bx bxs-star checked\"></i>\n        <i class=\"bx bxs-star \"></i>",
+        "qty": 1,
+        "stock": "Add Cart",
+        "status": "enab"
+    },
+    {
+        "id": 14,
+        "name": "Dark Choco Cookies",
+        "price": 15,
+        "desc": "Brownies made with Dark chocolate",
+        "star": "<i class=\"bx bxs-star checked\"></i>\n        <i class=\"bx bxs-star checked\"></i>\n        <i class=\"bx bxs-star checked\"></i>\n        <i class=\"bx bxs-star checked\"></i>\n        <i class=\"bx bxs-star checked\"></i>",
+        "image": "image/c8.jpg",
+        "qty": 1,
+        "stock": "Stock-Out",
+        "status": "disabled"
+    }
+]
