@@ -44,7 +44,7 @@
             <div class="collapse navbar-collapse" id="collapsibleNavbar">
               <ul class="navbar-nav">
                 <li class="nav-item">
-                  <a class="nav-link" href="index.php">Home</a>
+                  <a class="nav-link" href="index.html">Home</a>
                 </li>
                 <!-- dropdown -->
                 <li class="nav-item dropdown">
